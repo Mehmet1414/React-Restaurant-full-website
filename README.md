@@ -4,7 +4,7 @@
 <p>CSS</p>
 <p>Html</p>
 
-<img src="../assets/viddeo.gif">
+<img src="../assets/video.gif">
 
 # Getting Started with Create React App
 
