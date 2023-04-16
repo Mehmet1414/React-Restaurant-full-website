@@ -1,3 +1,11 @@
+# Reaturant- Full Responsive Web Site
+<h1> Used Tecnology</h1>
+<p>React</p>
+<p>CSS</p>
+<p>Html</p>
+
+<img src="../assets/viddeo.gif">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
